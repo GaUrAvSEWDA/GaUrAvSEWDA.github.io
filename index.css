@@ -1,0 +1,12 @@
+.jumbotron{
+    font-family: 'Courier New', Courier, monospace;
+    color:darkcyan
+}
+#curr{
+    font-size: larger;
+    font-display:inherit;
+    color:darkcyan
+}
+#time{
+    color: #ce6a6b;
+}
